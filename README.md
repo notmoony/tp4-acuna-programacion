@@ -13,3 +13,7 @@
 
 ### Pickup
 - Balas
+
+### Equipamento
+- Termo de mate
+- Llave
