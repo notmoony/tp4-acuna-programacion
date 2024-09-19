@@ -1,1 +1,15 @@
-# tp4-acuna-programacion
+# <Aguantemehastaquesemeocurraalgo>
+
+## Resumen Técnico
+- Alumno: Acuña Lola Pilar
+- Género/s: Terror Supervivencia
+- Camara: Primera Persona
+- Adicional: Cutscenes | Minimap
+
+## TP4
+
+### Disparos
+- Pistola
+
+### Pickup
+- Balas
